@@ -7,4 +7,5 @@ Messing around with go REST APIs libraries in GO, to find a bearable alternative
 Messing around with the following libraries:
 
 -> Chi 
+
 -> Gin 
